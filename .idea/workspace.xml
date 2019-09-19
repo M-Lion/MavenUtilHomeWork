@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f3429bc-0cd4-42c7-8624-e02e7553868f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R0LrqPhxvocEGe1KKycpByWPNl" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="C:/Soft/selenium-server-standalone-3.141.59.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mitesh\IdeaProjects\MavenUtilHomeWork\src\main\Resources\BrowserDriver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.RegistrationAutomation">
+    <configuration name="RegistrationAutomation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenUtilHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MavenHomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MavenHomeWork" />
+      <option name="MAIN_CLASS_NAME" value="MavenHomeWork.RegistrationAutomation" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationAutomation.UserShouldBeAbleToAddTwoBooksInShoppingBasket" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenUtilHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MavenHomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MavenHomeWork" />
+      <option name="MAIN_CLASS_NAME" value="MavenHomeWork.RegistrationAutomation" />
+      <option name="METHOD_NAME" value="UserShouldBeAbleToAddTwoBooksInShoppingBasket" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationAutomation.UserShouldBeAbleToRefferAProductToFriend" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenUtilHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MavenHomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MavenHomeWork" />
+      <option name="MAIN_CLASS_NAME" value="MavenHomeWork.RegistrationAutomation" />
+      <option name="METHOD_NAME" value="UserShouldBeAbleToRefferAProductToFriend" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationAutomation.UserShouldBeAbleToRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenUtilHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MavenHomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MavenHomeWork" />
+      <option name="MAIN_CLASS_NAME" value="MavenHomeWork.RegistrationAutomation" />
+      <option name="METHOD_NAME" value="UserShouldBeAbleToRegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationAutomation.UserShouldBeAbleToSelectJewelleryBetween$700To$3000" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenUtilHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MavenHomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MavenHomeWork" />
+      <option name="MAIN_CLASS_NAME" value="MavenHomeWork.RegistrationAutomation" />
+      <option name="METHOD_NAME" value="UserShouldBeAbleToSelectJewelleryBetween$700To$3000" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RegistrationAutomation" />
+        <item itemvalue="TestNG.RegistrationAutomation.UserShouldBeAbleToRegisterSuccessfully" />
+        <item itemvalue="TestNG.RegistrationAutomation.UserShouldBeAbleToAddTwoBooksInShoppingBasket" />
+        <item itemvalue="TestNG.RegistrationAutomation.UserShouldBeAbleToRefferAProductToFriend" />
+        <item itemvalue="TestNG.RegistrationAutomation.UserShouldBeAbleToSelectJewelleryBetween$700To$3000" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f3429bc-0cd4-42c7-8624-e02e7553868f" name="Default Changelist" comment="" />
+      <created>1568799267569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568799267569</updated>
+    </task>
+    <servers />
+  </component>
+</project>
